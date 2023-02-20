@@ -330,5 +330,59 @@
   background-color: rgba(255, 255, 255, 0.649);
   color: #0E2F47;
   font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
 
+
+.section5{
+  width: 90%;
+  height: 600px;
+  background-color: #fDf8f9;
+  margin-top: 80px;
+  margin-left: 60px;
+  display: flex;
+
+}
+
+.s5-d1,
+.s5-d2{
+  width: 50%;
+  /* border: 1px solid black; */
+  height: 100%;
+}
+
+.s5-d2{
+  display: flex;
+  align-items: center;
+}
+
+.s5-d1 img{
+  width: 100%;
+  height: 100%;
+}
+
+.s5-p1{
+  font-size: 28px;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.s5-p2{
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+.s5-ind{
+  margin-left: 40px;
+}
+
+.lm{
+  padding: 18px;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-top: 18px;
+  background-color: rgb(253, 118, 118);
+  border: none;
+  color: white;
+  border-radius: 3px;
+  font-size: 16px;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
 }
