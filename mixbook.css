@@ -1,0 +1,104 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+nav{
+    font-family: sans-serif;
+}
+
+nav .ship{
+    height: 40px;
+    width: 100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: 
+    #f6dede;
+}
+
+nav .ship polyline{
+    font-size: 3px;
+}
+
+nav .off{
+    height: 40px;
+    width: 100%;
+    background-color: #f5f5f5;
+}
+
+.off .off-{
+    height: 30px;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}  
+
+.off- .gift{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+
+
+.off- .gift a{
+    text-align: none;
+    color: black;
+}
+
+.thirdnav{
+    height: 80px;
+    width: 100%;
+    background-color: white;
+}
+nav .third{
+    height: 80px;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+}
+
+
+
+.third .third-{
+    height: 80px;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    gap: 1rem;
+    margin-left: -5%;
+}
+
+.third .third- a{
+    text-decoration: none;
+color: black;
+
+}
+
+
+nav .sign a{
+    padding: 2px;
+    text-decoration: none;
+    color: black;
+}
+
+nav .sign a:nth-child(1){
+    color: #48adac;
+}
+
+nav .sign a:nth-child(4){
+ font-size: 20px;
+}
+
+body{
+    background-color: #fdf8f7;
+}
