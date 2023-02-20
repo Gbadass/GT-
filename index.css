@@ -386,3 +386,51 @@
   font-size: 16px;
   font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
 }
+
+.section6{
+  display: flex;
+  height: 330px;
+  /* border: 1px solid black; */
+  width: 90%;
+  margin-left: 60px;
+  margin-top: 100px;
+}
+
+
+.s6-d1,
+.s6-d2{
+  width: 50%;
+  /* border: 1px solid black; */
+}
+
+.s6-p1{
+  font-size: 28px;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.s6-p2{
+  font-size: 18px;
+  margin-top: 40px;
+}
+
+.s6-ind{
+  /* margin-left: 40px; */
+}
+
+.lm1{
+  padding: 18px;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-top: 40px;
+  background-color: rgb(71, 163, 149);
+  border: none;
+  color: white;
+  border-radius: 3px;
+  font-size: 16px;
+  font-family: Helvetica Neue,Helvetica,Arial,sans-serif;
+}
+
+.s6-d2 img{
+  width: 95%;
+  height: 100%;
+}
