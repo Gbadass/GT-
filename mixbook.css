@@ -23,12 +23,12 @@ nav .ship{
     #f6dede;
 }
 
-nav .ship polyline{
-    font-size: 3px;
+nav .ship p{
+    font-size: 15px;
 }
 
 nav .off{
-    height: 40px;
+    height: 30px;
     width: 100%;
     background-color: #f5f5f5;
 }
@@ -181,4 +181,30 @@ nav .sign a:nth-child(4){
   line-height: 2rem;  
   color: 
   #7f8e99;
+}
+
+/* section 3 */
+.sec3{
+    height: 700px;
+    width: 100%;
+    background-color: #f6fbfb;
+}
+
+.sec3 .sec3-{
+    height: 700px;
+    width: 85%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sec3 .sec3- .col2{
+    /* height: 300px; */
+    width:60%;
+
+}
+
+.sec3 .sec3- .col2 iframe{
+    width: 100%;
 }
