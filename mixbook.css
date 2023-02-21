@@ -316,6 +316,7 @@ footer .foot{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin-bottom: 10rem;
 }
 
 footer .foot div{
@@ -359,4 +360,76 @@ footer .foot ul li a:hover{
 .chat{
     color: #3cadac;
     text-decoration: none;
+}
+
+hr{
+width: 90%;
+margin: auto;    
+margin-bottom: 3rem;
+}
+
+.footb {
+    height: 300px;
+    width: 100%;
+}
+
+.footb .footb-{
+    height: 300px;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.footb- .middle{
+    text-align: center;
+}
+
+
+.middle div{
+    padding-top: 5px;
+}
+
+.middle input{
+     height: 30px;
+     width: 60%;
+     padding: 5px;
+     background-color: white;
+     border: none;
+     border-radius: 4px;
+     
+}
+
+.middle ::placeholder{
+    font-weight: 900;
+    color: #7f8e99;
+}
+
+.middle button{
+    padding: 12px 20px;
+    background-color: #3cadac;
+    border: none;
+    color: white;
+}
+
+.middle i{
+    padding: 7px;
+}
+
+.middle .press{
+    padding-bottom: 0.5rem;
+}
+
+.middle a{
+    padding: 5px;
+    color: #7f8e99;
+    text-decoration: none;
+    font-size: 15px;
+
+}
+
+.middle p{
+    font-size: 15px;
+    color: #7f8e99;
 }
