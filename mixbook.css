@@ -235,3 +235,128 @@ nav .sign a:nth-child(4){
     width: 100%;
 }
 
+/* section 7 */
+.sec7{
+    height: 600px;
+    width: 100%;
+    background-color: white;
+}
+
+.sec7 .sec7-{
+    height: 600px;
+    width:85% ;
+    margin: auto;
+    padding-top: 2rem;
+}
+
+.sec7- .meet{
+    text-align: center;
+    line-height: 2rem;
+    margin-bottom: 3rem;
+}
+
+.sec7- .meet h1{
+    font-size: 30px;
+    font-weight: lighter;
+    margin-bottom: 1rem;
+}
+
+.sec7-  .love{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+ 
+}
+
+.sec7-  .love .love-{
+  width: 23.9%;
+}
+
+.love .love- img{
+    width: 100%;
+  }
+
+  .sec7-  .love i{
+    font-size: 40px;
+}
+
+.sec7- .baz{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 3%;
+    color: #a7afb9;
+    font-size: 15px;
+}
+
+.sec7- .but{
+    text-align: center;
+    padding-top: 2rem;
+}
+
+.sec7- .but button{
+    padding: 20px 30px;
+    background-color: #3cadac;
+    color: white;
+    border: none;
+    border-radius: 4px;
+}
+
+footer{
+    height: 1000px;
+    width: 100%;
+    background-color: 
+    #f5f5f5;
+}
+
+footer .foot{
+    height:500px;
+    width: 90%;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+footer .foot div{
+    height:400px;
+    /* width: 100%; */
+    margin: auto;
+
+}
+
+
+footer .foot ul li{
+list-style: none;
+line-height: 2rem;
+}
+
+footer .foot ul li a:nth-child(1){
+        text-decoration: none;
+        color: black;
+}
+
+footer .foot ul li a:nth-child(2){
+    text-decoration: none;
+    color: black;
+}
+
+footer .foot ul li a:hover{
+    color: 
+#3cadad;
+}
+
+.cal{
+    padding-top: 3.5rem;
+}
+
+/* footer .foot ul li a{
+     text-decoration: none;
+    color: black; 
+} */
+
+
+.chat{
+    color: #3cadac;
+    text-decoration: none;
+}
